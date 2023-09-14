@@ -1,5 +1,5 @@
 
-#Multiply-Accumulate (MACC) Accelerator
+# Multiply-Accumulate (MACC) Accelerator
 
 ## Overview
 
